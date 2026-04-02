@@ -1,1 +1,2 @@
 cd Storm-Breaker
+sudo bash install.sh
